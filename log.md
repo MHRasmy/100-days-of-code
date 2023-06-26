@@ -24,3 +24,12 @@
 * UVA:
 - [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)
 
+
+### [Day 2: June 24, 2023](https://twitter.com/Mohamad_Rasmy/status/1672716792823701506?s=20)
+
+**Today's Progress**: 
+* Leetcode:
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+
