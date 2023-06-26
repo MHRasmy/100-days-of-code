@@ -11,3 +11,16 @@
 * LeetCode:
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
+**Thoughts**: Kolha hat4of w4 2bn !@#$% bs el sabr.
+
+
+### [Day 1: June 23, 2023](https://twitter.com/Mohamad_Rasmy/status/1672417609873080320?s=20)
+
+**Today's Progress**: 
+* LeetCode:
+- [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+* UVA:
+- [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051)
+
