@@ -61,3 +61,14 @@
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
 **Thoughts**: Woke up earliar than yda but a lil groggy, so I slep 'til eod.
+
+
+### [Day 5: June 27, 2023](https://twitter.com/Mohamad_Rasmy/status/1673796888393334785?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
+**Thoughts**: nada, was fasting and began to work after iftar.
