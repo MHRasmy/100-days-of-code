@@ -49,3 +49,15 @@
 - Count inversions in array 
 
 **Thoughts**: Woke up late at 9 p.m., but anways, day ends when I'm done.
+
+
+### [Day 4: June 26, 2023](https://twitter.com/Mohamad_Rasmy/status/1673534613141037056?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+
+**Thoughts**: Woke up earliar than yda but a lil groggy, so I slep 'til eod.
