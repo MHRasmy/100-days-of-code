@@ -88,3 +88,15 @@
 
 **Thoughts**:
 >nada but a typical first day of eid.
+***
+
+### [Day 7: June 29, 2023](https://twitter.com/Mohamad_Rasmy/status/1674507786481201168?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
+**Thoughts**:
+>Only got 2 hrs of sleep, or technically 30 mins, but hey, I'm still good at tacklin' medium problems. Not too shabby!
