@@ -100,3 +100,17 @@
 
 **Thoughts**:
 >Only got 2 hrs of sleep, or technically 30 mins, but hey, I'm still good at tacklin' medium problems. Not too shabby!
+***
+
+### [Day 8: June 30, 2023](https://twitter.com/Mohamad_Rasmy/status/1674862908369514496?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/)
+
+**Thoughts**:
+>Finally got ma sleep schedule in order. Whew!
