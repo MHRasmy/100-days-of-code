@@ -114,3 +114,18 @@
 
 **Thoughts**:
 >Finally got ma sleep schedule in order. Whew!
+***
+
+### [Day 9: July 1, 2023](https://twitter.com/Mohamad_Rasmy/status/1675284557698945025?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+
+**Thoughts**:
+>So, I was pretty tired during the first 8 hrs of the day, and then Twitter went down. Ended up making some silly syntax errors—no idea why, maybe I just wasn't fully focused or something.
