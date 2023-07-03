@@ -129,3 +129,17 @@
 
 **Thoughts**:
 >So, I was pretty tired during the first 8 hrs of the day, and then Twitter went down. Ended up making some silly syntax errors—no idea why, maybe I just wasn't fully focused or something.
+***
+
+### [Day 10: July 2, 2023](https://twitter.com/Mohamad_Rasmy/status/1675668359721910274?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Same Tree](https://leetcode.com/problems/same-tree/)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+**Thoughts**:
+>Hey, guess what? I've got yet another sleeping disorder. I slept for the most part during the middle of the day.
