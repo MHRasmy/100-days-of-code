@@ -143,3 +143,16 @@
 
 **Thoughts**:
 >Hey, guess what? I've got yet another sleeping disorder. I slept for the most part during the middle of the day.
+***
+
+### [Day 11: July 3, 2023](https://twitter.com/Mohamad_Rasmy/status/1676040347690967040?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+
