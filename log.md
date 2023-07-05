@@ -155,4 +155,17 @@
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+***
 
+### [Day 12: July 4, 2023](https://twitter.com/Mohamad_Rasmy/status/1676364798483726336?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [Single Number II](https://leetcode.com/problems/single-number-ii/)
+
+**Thoughts**:
+>Tried to adjust my sleep schedule, but in the end, I ended up sleeping in the middle of the day.
