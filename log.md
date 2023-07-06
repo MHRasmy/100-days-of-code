@@ -169,3 +169,15 @@
 
 **Thoughts**:
 >Tried to adjust my sleep schedule, but in the end, I ended up sleeping in the middle of the day.
+***
+
+### [Day 13: July 5, 2023](https://twitter.com/Mohamad_Rasmy/status/1676775002790584325?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
