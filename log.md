@@ -180,4 +180,15 @@
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+***
 
+### [Day 14: July 6, 2023](https://twitter.com/Mohamad_Rasmy/status/1677120735519682562?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+**Thoughts**:
+>So, I was all set to take a quick afternoon nap, but darn it, I ended up totally missing my appointment. Ugh, what a bummer!
