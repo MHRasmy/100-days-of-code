@@ -192,3 +192,14 @@
 
 **Thoughts**:
 >So, I was all set to take a quick afternoon nap, but darn it, I ended up totally missing my appointment. Ugh, what a bummer!
+***
+
+### [Day 15: July 7, 2023](https://twitter.com/Mohamad_Rasmy/status/1677430167587749891?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
+**Thoughts**:
+>It was an extremely exhausting day, but luckily I managed to squeeze in a few hours to code and read.
