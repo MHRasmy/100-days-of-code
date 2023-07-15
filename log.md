@@ -254,3 +254,14 @@
 
 **Thoughts**:
 >Today was fantastic! Started early, stayed focused, took some time to chill and unwind
+***
+
+### [Day 21: July 13, 2023](https://twitter.com/Mohamad_Rasmy/status/1679560828830228500?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+**Thoughts**:
+>Today was fantastic! Started early, stayed focused, took some time to chill and unwind
