@@ -232,3 +232,14 @@
 
 *LeetCode*:
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+***
+
+### [Day 19: July 11, 2023](https://twitter.com/Mohamad_Rasmy/status/1678844826228346881?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Max Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+
+**Thoughts**:
+>Today was great! It was a healthy and productive day for me. I went on my morning walk to refresh my mind and I even managed to keep track of my water intake (drank 2+ liters).
