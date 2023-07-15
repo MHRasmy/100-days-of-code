@@ -224,3 +224,11 @@
 *DSA*:
 - Reviewed some important concepts.
 - Focused on Min Heap and Max Heap.
+***
+
+### [Day 18: July 10, 2023](https://twitter.com/Mohamad_Rasmy/status/1678607032436367361?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
