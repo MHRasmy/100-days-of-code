@@ -243,3 +243,14 @@
 
 **Thoughts**:
 >Today was great! It was a healthy and productive day for me. I went on my morning walk to refresh my mind and I even managed to keep track of my water intake (drank 2+ liters).
+***
+
+### [Day 20: July 12, 2023](https://twitter.com/Mohamad_Rasmy/status/1679190152327856145?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+
+**Thoughts**:
+>Today was fantastic! Started early, stayed focused, took some time to chill and unwind
