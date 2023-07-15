@@ -265,3 +265,15 @@
 
 **Thoughts**:
 >Today was fantastic! Started early, stayed focused, took some time to chill and unwind
+***
+
+### [Day 22: July 14, 2023](https://twitter.com/Mohamad_Rasmy/status/1679939171568295937?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+**Thoughts**:
+>TBH, I'm writing this a day later, and IDK much 'bout yda 'cept it ended bad. :"(
