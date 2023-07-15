@@ -203,3 +203,24 @@
 
 **Thoughts**:
 >It was an extremely exhausting day, but luckily I managed to squeeze in a few hours to code and read.
+***
+
+### [Day 16: July 8, 2023](https://twitter.com/Mohamad_Rasmy/status/1677867571448631298?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [Min Stack](https://leetcode.com/problems/min-stack/)
+
+**Thoughts**:
+>Was kinda sluggish today, but as always, I stick to the rule of "showing up"
+***
+
+### [Day 17: July 9, 2023](https://twitter.com/Mohamad_Rasmy/status/1678233469082632192?s=20)
+
+**Today's Progress**: 
+
+*DSA*:
+- Reviewed some important concepts.
+- Focused on Min Heap and Max Heap.
