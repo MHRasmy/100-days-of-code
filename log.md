@@ -277,3 +277,15 @@
 
 **Thoughts**:
 >TBH, I'm writing this a day later, and IDK much 'bout yda 'cept it ended bad. :"(
+***
+
+### [Day 23: July 15, 2023](https://twitter.com/Mohamad_Rasmy/status/1680263267166330880?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+
+**Thoughts**:
+>2day was pretty normal, had 2 finish it early 2 catch up ma appointment.
