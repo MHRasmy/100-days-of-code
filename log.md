@@ -289,3 +289,14 @@
 
 **Thoughts**:
 >2day was pretty normal, had 2 finish it early 2 catch up ma appointment.
+***
+
+### [Day 24: July 16, 2023](https://twitter.com/Mohamad_Rasmy/status/1680669786294960129?s=20)
+
+**Today's Progress**: 
+
+*DSA*:
+- Started the algorithms course, finished learning insertion, selection, and count sorts.
+
+**Thoughts**:
+>Can't tell if it's a good day or not, but it had some wholesome effect. Ate with my 7-yo cousin and watched an ep of El-Da7ee7 together :")
