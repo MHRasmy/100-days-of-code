@@ -300,3 +300,15 @@
 
 **Thoughts**:
 >Can't tell if it's a good day or not, but it had some wholesome effect. Ate with my 7-yo cousin and watched an ep of El-Da7ee7 together :")
+***
+
+### [Day 25: July 17, 2023](https://twitter.com/Mohamad_Rasmy/status/1681034520236097536?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+**Thoughts**:
+>Awkwardly unusual day. It's 11 PM now, and it still feels like it's 7 PM. WTF?
