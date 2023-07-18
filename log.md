@@ -312,3 +312,14 @@
 
 **Thoughts**:
 >Awkwardly unusual day. It's 11 PM now, and it still feels like it's 7 PM. WTF?
+***
+
+### [Day 26: July 18, 2023](https://twitter.com/Mohamad_Rasmy/status/1681411304974630924?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+**Thoughts**:
+>Won't say much further about that day beyond what is already in the tweet.
