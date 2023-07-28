@@ -335,3 +335,14 @@
 
 **Thoughts**:
 >Every fkn day, waking up fine, so I cancel my appointment, and at the eod, I regret my choice.
+***
+
+### [Day 28: July 20, 2023](https://twitter.com/Mohamad_Rasmy/status/1682132828761235456?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+**Thoughts**:
+>OMG! finally got my appointment
