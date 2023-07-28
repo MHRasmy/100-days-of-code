@@ -358,3 +358,15 @@
 
 **Thoughts**:
 >Typical Friday, nothin' important.
+***
+
+### [Day 30: July 22, 2023](https://twitter.com/Mohamad_Rasmy/status/1682879427603202048?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- Solved 2 problems from my algo course sorting section
+
+*LeetCode*:
+- [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+
