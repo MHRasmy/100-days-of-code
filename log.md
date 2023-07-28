@@ -391,4 +391,15 @@
 
 **Thoughts**:
 >Didn't know I should go 2 the doc 2day, & now I gotta wait til Friday. f************ck
+***
+
+### [Day 33: July 25, 2023](https://twitter.com/Mohamad_Rasmy/status/1685018499947675648?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+
+**Thoughts**:
+>I was tired, slept for the most part of the day, but luckily, I downloaded a Disney movie to watch during the electricity shutdown. Seems like I'm gonna watch it now lol!
 
