@@ -402,4 +402,17 @@
 
 **Thoughts**:
 >I was tired, slept for the most part of the day, but luckily, I downloaded a Disney movie to watch during the electricity shutdown. Seems like I'm gonna watch it now lol!
+***
+
+### [Day 34: July 26, 2023](https://twitter.com/Mohamad_Rasmy/status/1685018499947675648?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+- [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+- [Array Partition](https://leetcode.com/problems/array-partition/)
+
+**Thoughts**:
+>I'm feelin' better today 'cause of painkillers, and luckily the appointment's tmrw instead of Friday, so I shouldn't miss it.
 
