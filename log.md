@@ -346,3 +346,15 @@
 
 **Thoughts**:
 >OMG! finally got my appointment
+***
+
+### [Day 29: July 21, 2023](https://twitter.com/Mohamad_Rasmy/status/1682507608723189765?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+- Tried couple of other problems
+
+**Thoughts**:
+>Typical Friday, nothin' important.
