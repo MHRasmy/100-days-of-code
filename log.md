@@ -323,3 +323,15 @@
 
 **Thoughts**:
 >Won't say much further about that day beyond what is already in the tweet.
+***
+
+### [Day 27: July 19, 2023](https://twitter.com/Mohamad_Rasmy/status/1681766296868859905?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+**Thoughts**:
+>Every fkn day, waking up fine, so I cancel my appointment, and at the eod, I regret my choice.
