@@ -426,4 +426,16 @@
 
 **Thoughts**:
 >Phew! I finally got to the doc. The info I heard wasn't what I wanted to hear, but it's not that bad. Hope to get well soon. Oh, I forgot sth. I totally forgot to solve any LC and broke my streak after 36 days, which made ma day even worse :( but it doesn't matter, I'll come back.
+***
+
+### [Day 36: July 28, 2023](https://twitter.com/Mohamad_Rasmy/status/1685018499947675648?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)
+- [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters)
+
+**Thoughts**:
+>Typical Friday with the exception that I was fasting. Gonna eat now and watch some of Ronaldo's match. Lol, he's benched! xD
 
