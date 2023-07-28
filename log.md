@@ -380,4 +380,15 @@
 
 **Thoughts**:
 >Looks like this fkn electricity shutdown will exacerbate our difficulties
+***
+
+### [Day 32: July 24, 2023](https://twitter.com/Mohamad_Rasmy/status/1685018499947675648?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+
+**Thoughts**:
+>Didn't know I should go 2 the doc 2day, & now I gotta wait til Friday. f************ck
 
