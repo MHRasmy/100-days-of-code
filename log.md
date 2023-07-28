@@ -369,4 +369,15 @@
 
 *LeetCode*:
 - [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+***
+
+### [Day 31: July 23, 2023](https://twitter.com/Mohamad_Rasmy/status/1683262663881621504?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
+
+**Thoughts**:
+>Looks like this fkn electricity shutdown will exacerbate our difficulties
 
