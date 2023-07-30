@@ -438,4 +438,16 @@
 
 **Thoughts**:
 >Typical Friday with the exception that I was fasting. Gonna eat now and watch some of Ronaldo's match. Lol, he's benched! xD
+***
+
+### [Day 37: July 29, 2023](https://twitter.com/Mohamad_Rasmy/status/1685445132647120896?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+- [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/description/)
+
+**Thoughts**:
+>Not a perf day, woke up late, went for my ophthalmologist consult, and found it to be 10:30. Barely studied for a couple of hrs, and now gonna find sth fun to do.
 
