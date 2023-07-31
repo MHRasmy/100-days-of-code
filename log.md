@@ -465,4 +465,19 @@
 
 **Thoughts**:
 >Need to fix my sleepin' schedule again cuz I'm feelin' the day to be way too short.
+***
+
+### [Day 39: July 31, 2023](https://twitter.com/Mohamad_Rasmy/status/1686145405946306560?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Solved half of 2nd hw on binary search
+
+*LeetCode*:
+- [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+
+**Thoughts**:
+>Day started bad, but then got a glimmer of hope, neutralizin' it.
 
