@@ -450,4 +450,19 @@
 
 **Thoughts**:
 >Not a perf day, woke up late, went for my ophthalmologist consult, and found it to be 10:30. Barely studied for a couple of hrs, and now gonna find sth fun to do.
+***
+
+### [Day 38: July 30, 2023](https://twitter.com/Mohamad_Rasmy/status/1685826792085712896?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Completed Homework 1 on binary search in the algo course
+
+*LeetCode*:
+- [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
+- [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
+
+**Thoughts**:
+>Need to fix my sleepin' schedule again cuz I'm feelin' the day to be way too short.
 
