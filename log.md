@@ -480,4 +480,18 @@
 
 **Thoughts**:
 >Day started bad, but then got a glimmer of hope, neutralizin' it.
+***
+
+### [Day 40: August 1, 2023](https://twitter.com/Mohamad_Rasmy/status/1686520740026204160?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Completed the 2nd hw on binary search
+
+*LeetCode*:
+- [Heaters](https://leetcode.com/problems/heaters/)
+
+**Thoughts**:
+>I feel like today's passin' seamlessly, no actions, no thoughts...
 
