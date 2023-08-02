@@ -494,4 +494,21 @@
 
 **Thoughts**:
 >I feel like today's passin' seamlessly, no actions, no thoughts...
+***
+
+### [Day 41: August 2, 2023](https://twitter.com/Mohamad_Rasmy/status/1686880456883494912?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Completed half of the 3rd medium-level hw on binary search.
+
+*LeetCode*:
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+*Spoj*:
+- [PIE - Pie](https://www.spoj.com/problems/PIE/)
+
+**Thoughts**:
+>I got my test results today, they look fine, but there's a tiny thing that I'm worrying about. I'll discuss with my doc tmrw if there's a problem. Except that, the day was bad.
 
