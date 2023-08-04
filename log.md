@@ -511,4 +511,18 @@
 
 **Thoughts**:
 >I got my test results today, they look fine, but there's a tiny thing that I'm worrying about. I'll discuss with my doc tmrw if there's a problem. Except that, the day was bad.
+***
+
+### [Day 42: August 3, 2023](https://twitter.com/Mohamad_Rasmy/status/1687310556686852096?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Finished the 3rd hw on binary search.
+
+*LeetCode*:
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
+**Thoughts**:
+>Just postponed my appointment to tmrw.
 
