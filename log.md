@@ -525,4 +525,19 @@
 
 **Thoughts**:
 >Just postponed my appointment to tmrw.
+***
+
+### [Day 43: August 4, 2023](https://twitter.com/Mohamad_Rasmy/status/1687671059250663425?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Explored different types of graphs and their representations (adjacency matrix, list)
+- Tackled 1 problem from the first homework
+
+*LeetCode*:
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+**Thoughts**:
+>My appt went fine, and I didn't think much 'bout anything td.
 
