@@ -540,4 +540,18 @@
 
 **Thoughts**:
 >My appt went fine, and I didn't think much 'bout anything td.
+***
+
+### [Day 44: August 5, 2023](https://twitter.com/Mohamad_Rasmy/status/1688023721494134784?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Finished the first homework on graph representation
+
+*LeetCode*:
+- [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+
+**Thoughts**:
+>Oh shit, here we go again. I just wanna get ma fkn sleep schedule back in order.
 
