@@ -554,4 +554,14 @@
 
 **Thoughts**:
 >Oh shit, here we go again. I just wanna get ma fkn sleep schedule back in order.
+***
 
+### [Day 45: August 6, 2023](https://twitter.com/Mohamad_Rasmy/status/1688389445815242753?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Solved the second medium-level graph representation homework.
+
+*LeetCode*:
+- [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
