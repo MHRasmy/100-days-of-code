@@ -565,3 +565,19 @@
 
 *LeetCode*:
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+***
+
+### [Day 46: August 7, 2023](https://twitter.com/Mohamad_Rasmy/status/1688767852717756416?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Solved half of the first DFS homework.
+
+*LeetCode*:
+- [Employee Importance](https://leetcode.com/problems/employee-importance/)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+**Thoughts**:
+>Oh, woke up at 10:30 PM, whew! Let's try again fixing my sleep schedule tmrw.
+
