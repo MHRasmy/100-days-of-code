@@ -580,4 +580,18 @@
 
 **Thoughts**:
 >Oh, woke up at 10:30 PM, whew! Let's try again fixing my sleep schedule tmrw.
+***
 
+### [Day 47: August 8, 2023](https://twitter.com/Mohamad_Rasmy/status/1689153809744859136?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Solved the first DFS homework.
+
+*LeetCode*:
+- [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+**Thoughts**:
+>slept yesterday in the middle of the day and woke up too late. Will try again today to fix that.
