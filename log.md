@@ -595,3 +595,17 @@
 
 **Thoughts**:
 >slept yesterday in the middle of the day and woke up too late. Will try again today to fix that.
+***
+
+### [Day 48: August 9, 2023](https://twitter.com/Mohamad_Rasmy/status/1689507581591511040?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Solved half of the second DFS homework.
+
+*LeetCode*:
+- [Coloring A Border](https://leetcode.com/problems/coloring-a-border/)
+
+**Thoughts**:
+>I was gonna sort out my sleep sched until I dozed off around 7 PM and woke up at 12.
