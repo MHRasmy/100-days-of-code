@@ -609,3 +609,18 @@
 
 **Thoughts**:
 >I was gonna sort out my sleep sched until I dozed off around 7 PM and woke up at 12.
+***
+
+### [Day 49: August 10, 2023](https://twitter.com/Mohamad_Rasmy/status/1689865428556754944?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Solved the second DFS homework.
+
+*LeetCode*:
+- [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+- [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
+
+**Thoughts**:
+>It's closer than before; I could fix my sleep sched by tmrw.
