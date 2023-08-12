@@ -624,3 +624,18 @@
 
 **Thoughts**:
 >It's closer than before; I could fix my sleep sched by tmrw.
+***
+
+### [Day 50: August 11, 2023](https://twitter.com/Mohamad_Rasmy/status/1690241694405398528?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Tackled the 3rd DFS homework.
+
+*LeetCode*:
+- [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+**Thoughts**:
+>It was good! I was able to stay up a bit later, and I can tell that I kinda fixed my sleep disorder.
