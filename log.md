@@ -639,3 +639,15 @@
 
 **Thoughts**:
 >It was good! I was able to stay up a bit later, and I can tell that I kinda fixed my sleep disorder.
+***
+
+### [Day 51: August 12, 2023](https://twitter.com/Mohamad_Rasmy/status/1690575649570746368?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+- [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+
+**Thoughts**:
+>Ugh, yet slept again, aaaaauugggggggggggggghh
