@@ -651,3 +651,15 @@
 
 **Thoughts**:
 >Ugh, yet slept again, aaaaauugggggggggggggghh
+***
+
+### [Day 52: August 13, 2023](https://twitter.com/Mohamad_Rasmy/status/1690933658801029121?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
+- [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/)
+
+**Thoughts**:
+>Almost the same as yda, the interestin' thing is that I watched a PL match (LIV - CHE) 2day.
