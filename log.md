@@ -663,3 +663,15 @@
 
 **Thoughts**:
 >Almost the same as yda, the interestin' thing is that I watched a PL match (LIV - CHE) 2day.
+***
+
+### [Day 53: August 14, 2023](https://twitter.com/Mohamad_Rasmy/status/1691266292907491328?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Open the Lock](https://leetcode.com/problems/open-the-lock/)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+**Thoughts**:
+>Was excited to watch some matches, but then suddenly fell asleep. Luckily, I didn't miss anything interesting.
