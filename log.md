@@ -675,3 +675,15 @@
 
 **Thoughts**:
 >Was excited to watch some matches, but then suddenly fell asleep. Luckily, I didn't miss anything interesting.
+***
+
+### [Day 54: August 15, 2023](https://twitter.com/Mohamad_Rasmy/status/1691683655305814176?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
+- [Partition List](https://leetcode.com/problems/partition-list/)
+
+**Thoughts**:
+>Yeah, had a pretty decent and long enough day.
