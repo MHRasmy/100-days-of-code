@@ -687,3 +687,15 @@
 
 **Thoughts**:
 >Yeah, had a pretty decent and long enough day.
+***
+
+### [Day 55: August 16, 2023](https://twitter.com/Mohamad_Rasmy/status/1692331587168321787?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+**Thoughts**:
+>Having a kinda rough day.
