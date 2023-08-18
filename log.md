@@ -699,3 +699,15 @@
 
 **Thoughts**:
 >Having a kinda rough day.
+***
+
+### [Day 56: August 17, 2023](https://twitter.com/Mohamad_Rasmy/status/1692331587168321787?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
+- [01 Matrix](https://leetcode.com/problems/01-matrix/)
+
+**Thoughts**:
+>Not sure what happened, I just dozed off at 6 PM.
