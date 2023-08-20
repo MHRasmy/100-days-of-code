@@ -711,3 +711,14 @@
 
 **Thoughts**:
 >Not sure what happened, I just dozed off at 6 PM.
+***
+
+### [Day 57: August 18, 2023](https://twitter.com/Mohamad_Rasmy/status/1693071073091207338?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+**Thoughts**:
+>First day with no n******m, hoping there's no last.
