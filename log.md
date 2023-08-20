@@ -722,3 +722,14 @@
 
 **Thoughts**:
 >First day with no n******m, hoping there's no last.
+***
+
+### [Day 58: August 19, 2023](https://twitter.com/Mohamad_Rasmy/status/1693071073091207338?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+
+**Thoughts**:
+>Just got my hair cut, here we gooo!
