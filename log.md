@@ -733,3 +733,14 @@
 
 **Thoughts**:
 >Just got my hair cut, here we gooo!
+***
+
+### [Day 59: August 20, 2023](https://twitter.com/Mohamad_Rasmy/status/1693451754594050444?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+
+**Thoughts**:
+>Good day :)
