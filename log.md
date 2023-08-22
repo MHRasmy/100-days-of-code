@@ -744,3 +744,15 @@
 
 **Thoughts**:
 >Good day :)
+***
+
+### [Day 60: August 21, 2023](https://twitter.com/Mohamad_Rasmy/status/1693819911196258727?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [Repeated Substring Pattern](https://leetcode.com/problems/rotting-oranges/)
+
+**Thoughts**:
+>It's Monday, but I'm feeling pretty dang lazy.
