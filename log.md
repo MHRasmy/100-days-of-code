@@ -790,3 +790,14 @@
 
 **Thoughts**:
 >Something good happened at the start of the day, but then something bad slammed the brakes on the day.
+***
+
+### [Day 64: August 25, 2023](https://twitter.com/Mohamad_Rasmy/status/1695256367638962619?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Rotting Oranges](https://leetcode.com/problems/sequence-reconstruction/)
+
+**Thoughts**:
+>It's Friday once again...
