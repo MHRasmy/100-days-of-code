@@ -756,3 +756,15 @@
 
 **Thoughts**:
 >It's Monday, but I'm feeling pretty dang lazy.
+***
+
+### [Day 61: August 22, 2023](https://twitter.com/Mohamad_Rasmy/status/1695256367638962619?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+
+**Thoughts**:
+>Writing this 3 days later, and I've got no clue what went down that day.
