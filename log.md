@@ -768,3 +768,14 @@
 
 **Thoughts**:
 >Writing this 3 days later, and I've got no clue what went down that day.
+***
+
+### [Day 62: August 23, 2023](https://twitter.com/Mohamad_Rasmy/status/1695256367638962619?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+
+**Thoughts**:
+>Waiting for a reply...
