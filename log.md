@@ -779,3 +779,14 @@
 
 **Thoughts**:
 >Waiting for a reply...
+***
+
+### [Day 63: August 24, 2023](https://twitter.com/Mohamad_Rasmy/status/1695256367638962619?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)
+
+**Thoughts**:
+>Something good happened at the start of the day, but then something bad slammed the brakes on the day.
