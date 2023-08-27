@@ -801,3 +801,14 @@
 
 **Thoughts**:
 >It's Friday once again...
+***
+
+### [Day 65: August 26, 2023](https://twitter.com/Mohamad_Rasmy/status/1695636970402164769?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+
+**Thoughts**:
+>No hope detected :(
