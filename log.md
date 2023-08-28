@@ -812,3 +812,15 @@
 
 **Thoughts**:
 >No hope detected :(
+***
+
+### [Day 66: August 27, 2023](https://twitter.com/Mohamad_Rasmy/status/1695968075353342223?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+- [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)
+
+**Thoughts**:
+>I reckon I'm more stoic than Marcus...
