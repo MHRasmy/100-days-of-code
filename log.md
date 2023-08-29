@@ -836,3 +836,15 @@
 
 **Thoughts**:
 >May Allah's will make things better.
+***
+
+### [Day 68: August 29, 2023](https://twitter.com/Mohamad_Rasmy/status/1696655451339837505?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
+- [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+
+**Thoughts**:
+>Today's more than good for me. Hope tmrw'll be likewise!
