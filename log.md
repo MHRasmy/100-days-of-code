@@ -824,3 +824,15 @@
 
 **Thoughts**:
 >I reckon I'm more stoic than Marcus...
+***
+
+### [Day 67: August 28, 2023](https://twitter.com/Mohamad_Rasmy/status/1696400187646722222?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+- [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
+
+**Thoughts**:
+>May Allah's will make things better.
