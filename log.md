@@ -848,3 +848,15 @@
 
 **Thoughts**:
 >Today's more than good for me. Hope tmrw'll be likewise!
+***
+
+### [Day 69: August 30, 2023](https://twitter.com/Mohamad_Rasmy/status/1697069404092027106?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+**Thoughts**:
+>My day missed one little thing to be perfect. This is supposed to be some sort of thoughts, dunno why I'm f***ing rating my days!
