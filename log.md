@@ -871,3 +871,16 @@
 
 **Thoughts**:
 >Another day review: What can I say except that the day went by fast and I slept in late?
+***
+
+### [Day 71: September 1, 2023](https://twitter.com/Mohamad_Rasmy/status/1697801914979668066?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+**Thoughts**:
+>Great day for a Friday!
