@@ -860,3 +860,14 @@
 
 **Thoughts**:
 >My day missed one little thing to be perfect. This is supposed to be some sort of thoughts, dunno why I'm f***ing rating my days!
+***
+
+### [Day 70: August 31, 2023](https://twitter.com/Mohamad_Rasmy/status/1697801914979668066?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+**Thoughts**:
+>Another day review: What can I say except that the day went by fast and I slept in late?
