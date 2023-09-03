@@ -884,3 +884,15 @@
 
 **Thoughts**:
 >Great day for a Friday!
+***
+
+### [Day 72: September 2, 2023](https://twitter.com/Mohamad_Rasmy/status/1698144921935347974?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Path Sum](https://leetcode.com/problems/path-sum/)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+**Thoughts**:
+>The day didn't start well and ended so fkn upsettin'. 
