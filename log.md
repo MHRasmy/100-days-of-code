@@ -896,3 +896,15 @@
 
 **Thoughts**:
 >The day didn't start well and ended so fkn upsettin'. 
+***
+
+### [Day 73: September 3, 2023](https://twitter.com/Mohamad_Rasmy/status/1698514625233395826?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+
+**Thoughts**:
+>Sometimes it feels pointless to continue, but life doesn't give us the chance to stop... W 3agaby!
