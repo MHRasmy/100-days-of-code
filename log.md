@@ -908,3 +908,15 @@
 
 **Thoughts**:
 >Sometimes it feels pointless to continue, but life doesn't give us the chance to stop... W 3agaby!
+***
+
+### [Day 74: September 4, 2023](https://twitter.com/Mohamad_Rasmy/status/1698932017998516298?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+
+**Thoughts**:
+>Days have only two modes: thought-provoking and thought-blocking. 2day's got mixed modes.
