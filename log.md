@@ -920,3 +920,14 @@
 
 **Thoughts**:
 >Days have only two modes: thought-provoking and thought-blocking. 2day's got mixed modes.
+***
+
+### [Day 75: September 5, 2023](https://twitter.com/Mohamad_Rasmy/status/1699283464082583717?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+**Thoughts**:
+>Whatever can happen will happen. KXT.
