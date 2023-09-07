@@ -931,3 +931,14 @@
 
 **Thoughts**:
 >Whatever can happen will happen. KXT.
+***
+
+### [Day 76: September 6, 2023](https://twitter.com/Mohamad_Rasmy/status/1699641704154906739?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+**Thoughts**:
+>Kinda thinkin' about removing this "Thoughts" section cuz am finding myself tongue-tied and my brain paralyzed. It's not articulation but remembering.
