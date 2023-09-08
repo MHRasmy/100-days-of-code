@@ -942,3 +942,17 @@
 
 **Thoughts**:
 >Kinda thinkin' about removing this "Thoughts" section cuz am finding myself tongue-tied and my brain paralyzed. It's not articulation but remembering.
+***
+
+### [Day 77: September 7, 2023](https://twitter.com/Mohamad_Rasmy/status/1699986720693916127?s=20)
+
+**Today's Progress**: 
+*DSA*:
+- Delved into dynamic programming
+
+*LeetCode*:
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+**Thoughts**:
+>End of life needs a base case, but no time to validate it...
