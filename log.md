@@ -956,3 +956,14 @@
 
 **Thoughts**:
 >End of life needs a base case, but no time to validate it...
+***
+
+### [Day 78: September 8, 2023](https://twitter.com/Mohamad_Rasmy/status/1700335572089274423?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
+**Thoughts**:
+>Got something interesting instead of just days' reviews: the internet went down :(
