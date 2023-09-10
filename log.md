@@ -967,3 +967,15 @@
 
 **Thoughts**:
 >Got something interesting instead of just days' reviews: the internet went down :(
+***
+
+### [Day 79: September 9, 2023](https://twitter.com/Mohamad_Rasmy/status/1700734097155318187?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [House Robber](https://leetcode.com/problems/house-robber/)
+- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+**Thoughts**:
+>Arriving at an unfavorable conclusion 'bout ppl, but you knows, the truth's almost bitterer than we think!
