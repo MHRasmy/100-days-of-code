@@ -979,3 +979,15 @@
 
 **Thoughts**:
 >Arriving at an unfavorable conclusion 'bout ppl, but you knows, the truth's almost bitterer than we think!
+***
+
+### [Day 80: September 10, 2023](https://twitter.com/Mohamad_Rasmy/status/1701065521079210321?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+**Thoughts**:
+>2day's fkn disgustin'
