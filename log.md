@@ -991,3 +991,14 @@
 
 **Thoughts**:
 >2day's fkn disgustin'
+***
+
+### [Day 81: September 11, 2023](https://twitter.com/Mohamad_Rasmy/status/1701469648414278095?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+**Thoughts**:
+>With this sleep disorder, I shall be buildin a FC.
