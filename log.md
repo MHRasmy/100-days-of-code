@@ -1002,3 +1002,14 @@
 
 **Thoughts**:
 >With this sleep disorder, I shall be buildin a FC.
+***
+
+### [Day 82: September 12, 2023](https://x.com/Mohamad_Rasmy/status/1701827326416245094?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+
+**Thoughts**:
+>In a subtle area between learning and screwing up...
