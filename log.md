@@ -1036,3 +1036,14 @@
 
 **Thoughts**:
 >Memories of that place 3 A.M. were indeed profound...
+***
+
+### [Day 85: September 15, 2023](https://x.com/Mohamad_Rasmy/status/1702872703877709927?s=20)
+
+**Today's Progress**: 
+
+*SPOJ*:
+- [KNAPSACK - The Knapsack Problem](https://www.spoj.com/problems/KNAPSACK/)
+
+**Thoughts**:
+>Nothin' could upset a man more than breakin' his LC streak :(
