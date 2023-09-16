@@ -1024,3 +1024,15 @@
 
 **Thoughts**:
 >A needle in a haystack!
+***
+
+### [Day 84: September 14, 2023](https://x.com/Mohamad_Rasmy/status/1702460895719288846?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
+**Thoughts**:
+>Memories of that place 3 A.M. were indeed profound...
