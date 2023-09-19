@@ -1072,3 +1072,18 @@
 
 **Thoughts**:
 >Optimistic yet nervous.
+***
+
+### [Day 88: September 18, 2023](https://x.com/Mohamad_Rasmy/status/1704013132534833400?s=20)
+
+**Today's Progress**: 
+
+*DSA*
+- Subset Sum Problem
+
+*LeetCode*:
+- [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+
+**Thoughts**:
+>Less nervous yet still optimistic.
