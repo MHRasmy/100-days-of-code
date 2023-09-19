@@ -1060,3 +1060,15 @@
 
 **Thoughts**:
 >Tomorrow's GFC.
+***
+
+### [Day 87: September 17, 2023](https://x.com/Mohamad_Rasmy/status/1703636063632216566?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+**Thoughts**:
+>Optimistic yet nervous.
