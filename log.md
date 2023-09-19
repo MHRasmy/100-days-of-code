@@ -1047,3 +1047,16 @@
 
 **Thoughts**:
 >Nothin' could upset a man more than breakin' his LC streak :(
+***
+
+### [Day 86: September 16, 2023](https://x.com/Mohamad_Rasmy/status/1703274775605301716?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+- [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+
+**Thoughts**:
+>Tomorrow's GFC.
