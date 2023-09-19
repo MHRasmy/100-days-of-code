@@ -1087,3 +1087,15 @@
 
 **Thoughts**:
 >Less nervous yet still optimistic.
+***
+
+### [Day 89: September 19, 2023](https://x.com/Mohamad_Rasmy/status/1704278370819649992?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+**Thoughts**:
+>Above-avg day.
