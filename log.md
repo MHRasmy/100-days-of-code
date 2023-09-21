@@ -1099,3 +1099,15 @@
 
 **Thoughts**:
 >Above-avg day.
+***
+
+### [Day 90: September 20, 2023](https://x.com/Mohamad_Rasmy/status/1704661554220737012?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
+- [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+**Thoughts**:
+>It's just the beginning of a new era.
