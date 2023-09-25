@@ -1144,3 +1144,15 @@
 
 **Thoughts**:
 >Busy Day, internet shutdown. It feels like the whole world's conspirin' to break the LC streak.
+***
+
+### [Day 94: September 24, 2023](https://x.com/Mohamad_Rasmy/status/1706162504164835582?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Edit Distance](https://leetcode.com/problems/edit-distance/)
+- [Integer Break](https://leetcode.com/problems/integer-break/)
+
+**Thoughts**:
+>Success is more about decisiveness than technicality.
