@@ -1156,3 +1156,15 @@
 
 **Thoughts**:
 >Success is more about decisiveness than technicality.
+***
+
+### [Day 95: September 25, 2023](https://x.com/Mohamad_Rasmy/status/1706886848646193346?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+**Thoughts**:
+>Nobody ever has a clue when it'll be the last minute.
