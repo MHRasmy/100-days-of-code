@@ -1170,7 +1170,7 @@
 >Nobody ever has a clue when it'll be the last minute.
 ***
 
-### [Day 95: September 25, 2023](https://x.com/Mohamad_Rasmy/status/1706886848646193346?s=20)
+### [Day 96: September 26, 2023](https://x.com/Mohamad_Rasmy/status/1706886848646193346?s=20)
 
 **Today's Progress**: 
 
@@ -1179,3 +1179,14 @@
 
 **Thoughts**:
 >But for sure, the last minute could be decided by anyone.
+***
+
+### [Day 97: September 27, 2023](https://x.com/Mohamad_Rasmy/status/1707540522833690817?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+**Thoughts**:
+>Lots of info.
