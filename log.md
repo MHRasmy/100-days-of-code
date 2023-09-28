@@ -1190,3 +1190,15 @@
 
 **Thoughts**:
 >Lots of info.
+***
+
+### [Day 98: September 28, 2023](https://x.com/Mohamad_Rasmy/status/1707540522833690817?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [Triangle](https://leetcode.com/problems/triangle/)
+
+**Thoughts**:
+>... to process.
