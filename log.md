@@ -1202,3 +1202,16 @@
 
 **Thoughts**:
 >... to process.
+***
+
+### [Day 98: September 28, 2023](https://x.com/Mohamad_Rasmy/status/1707956670813319326?s=20)
+
+**Today's Progress**: 
+
+*LeetCode*:
+- [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
+- [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
+- [Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+
+**Thoughts**:
+>Elly ba3dooo.
